@@ -31,12 +31,15 @@
 .intl-tel-input .flag-container .arrow {
   font-size: 6px;
   margin-left: 5px;
+    color:"#FFFFFF";
 }
 .intl-tel-input .flag-container .arrow.up:after {
   content: "⋀";
+  color:"#FFFFFF";
 }
 .intl-tel-input .flag-container .arrow.down:after {
   content: "⋁";
+    color:"#FFFFFF";
 }
 .intl-tel-input .selected-flag {
   z-index: 1;
