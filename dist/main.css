@@ -34,11 +34,11 @@
     color:"#FFFFFF";
 }
 .intl-tel-input .flag-container .arrow.up:after {
-  content: "⋀";
+  content: "˄";
   color:"#FFFFFF";
 }
 .intl-tel-input .flag-container .arrow.down:after {
-  content: "⋁";
+  content: "˅";
     color:"#FFFFFF";
 }
 .intl-tel-input .selected-flag {
