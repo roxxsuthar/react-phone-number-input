@@ -130,7 +130,7 @@
 .intl-tel-input.allow-dropdown.separate-dial-code .selected-dial-code {
   display: table-cell;
   vertical-align: middle;
-  padding-left: 28px;
+  padding-left: 0px;
 }
 .intl-tel-input.allow-dropdown.separate-dial-code.iti-sdc-2 input, .intl-tel-input.allow-dropdown.separate-dial-code.iti-sdc-2 input[type=text], .intl-tel-input.allow-dropdown.separate-dial-code.iti-sdc-2 input[type=tel] {
   padding-left: 76px;
